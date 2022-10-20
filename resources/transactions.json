@@ -1,0 +1,96 @@
+{
+  "transactionList": [
+    {
+      "transactionType": "credit",
+      "amount": 15.78,
+      "name": "Apple",
+      "description": "Card number used",
+      "date": 1666204050000,
+      "isPending": true,
+      "authorizedUser": {
+        "name": "Diana"
+      }
+    },
+    {
+      "transactionType": "payment",
+      "amount": 174.00,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National From JPMorgan Chase Bank National",
+      "date": 1666192530000,
+      "isPending": false
+    },
+    {
+      "transactionType": "credit",
+      "amount": 55.83,
+      "name": "IKEA",
+      "description": "Round Rock, TX",
+      "date": 1666074930000,
+      "isPending": false
+    },
+    {
+      "transactionType": "credit",
+      "amount": 28.87,
+      "name": "Apple",
+      "description": "Card number used",
+      "date": 1665231930000,
+      "isPending": true,
+      "authorizedUser": {
+        "name": "Oleg"
+      }
+    },
+    {
+      "transactionType": "credit",
+      "amount": 7.78,
+      "name": "Apple",
+      "description": "Card number used",
+      "date": 1665167850000,
+      "isPending": false,
+      "authorizedUser": {
+        "name": "Gleb"
+      }
+    },
+    {
+      "transactionType": "payment",
+      "amount": 278.33,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National From JPMorgan Chase Bank National",
+      "date": 1665085050000,
+      "isPending": true
+    },
+    {
+      "transactionType": "payment",
+      "amount": 30.25,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National From JPMorgan Chase Bank National",
+      "date": 1664950530000,
+      "isPending": false
+    },
+    {
+      "transactionType": "credit",
+      "amount": 135.73,
+      "name": "IKEA",
+      "description": "Round Rock, TX",
+      "date": 1664953530000,
+      "isPending": true
+    },
+    {
+      "transactionType": "credit",
+      "amount": 95.99,
+      "name": "Target",
+      "description": "Cedar Park, TX",
+      "date": 1664755650000,
+      "isPending": false
+    },
+    {
+      "transactionType": "credit",
+      "amount": 700.78,
+      "name": "Play",
+      "description": "Card number used",
+      "date": 1664598030000,
+      "isPending": true,
+      "authorizedUser": {
+        "name": "Sjava"
+      }
+    }
+  ]
+}
