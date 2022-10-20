@@ -27,7 +27,7 @@ class WalletApp extends StatelessWidget {
           theme: ThemeData(
             backgroundColor: const Color(0xFFF2F2F6),
             scaffoldBackgroundColor: const Color(0xFFF2F2F6),
-            //primarySwatch: Colors.,
+            primarySwatch: Colors.grey,
             textTheme: TextTheme(
               bodyMedium: TextStyle(fontSize: 40.sp),
               bodyLarge: TextStyle(fontSize: 48.sp),

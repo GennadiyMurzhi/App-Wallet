@@ -178,7 +178,7 @@ String formatDoubleMoneyToStringMoneyByTransactionType(double money, Transaction
   return formatDoubleMoneyToStringMoney(money);
 }
 
-///
+///function to convert a string type of transaction into a transaction type
 TransactionType transactionTypeStringToTransactionType(String transactionTypeString) {
   if (transactionTypeString.compareTo(TransactionType.payment.name) == 0) {
     return TransactionType.payment;
@@ -189,7 +189,7 @@ TransactionType transactionTypeStringToTransactionType(String transactionTypeStr
   }
 }
 
-///
+///function to convert a transaction type of transaction into a string type
 String transactionTypeToTransactionTypeString(TransactionType transactionType) {
   if (transactionType == TransactionType.payment) {
     return TransactionType.payment.name;
